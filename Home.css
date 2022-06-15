@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("images/1522172_medium2000.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("1522172_medium2000.jpg");
   background-position: 50% 50%;
 }
 
@@ -358,7 +358,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 431px;
-  background-image: url("images/2102369_medium2000.jpg");
+  background-image: url("2102369_medium2000.jpg");
   background-position: 50% 50%;
 }
 
