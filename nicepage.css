@@ -36879,13 +36879,13 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-footer .u-line-1 {
   width: 147px;
-  transform-origin: left center;
-  margin: -121px auto 60px;
+  transform-origin: left center 0px;
+  margin: -153px auto 150px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-line-1 {
     width: 147px;
-    margin-top: -121px;
+    margin-top: -153px;
   }
 }
 
