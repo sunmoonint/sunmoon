@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("1522172_medium2000.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/1522172_medium2000.jpg");
   background-position: 50% 50%;
 }
 
@@ -391,7 +391,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 431px;
-  background-image: url("b42f467b1b27bcb101ec05b1548054ba2991b1bfc264d17a0c920eb13d4834a0791f884454886abdd5a21014282ea66f1914891a1959e3b2e4641d_1280.jpg");
+  background-image: url("images/b42f467b1b27bcb101ec05b1548054ba2991b1bfc264d17a0c920eb13d4834a0791f884454886abdd5a21014282ea66f1914891a1959e3b2e4641d_1280.jpg");
   background-position: 50% 50%;
 }
 
@@ -699,7 +699,7 @@
 .u-section-6 .u-image-1 {
   width: 300px;
   height: 300px;
-  background-image: url("abzalphoto.jpeg");
+  background-image: url("images/abzalphoto.jpeg");
   background-position: 50% 50%;
   box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
   margin: 30px auto 0;
@@ -806,7 +806,7 @@
 .u-section-7 .u-image-1 {
   width: 300px;
   height: 300px;
-  background-image: url("WhatsAppImage2022-06-27at12.56.41PM1.jpeg");
+  background-image: url("images/WhatsAppImage2022-06-27at12.56.41PM1.jpeg");
   background-position: 50% 50%;
   box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
   margin: 30px auto 0;
